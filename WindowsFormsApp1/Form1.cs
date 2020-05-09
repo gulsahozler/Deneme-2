@@ -16,9 +16,18 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+//123123
 //sondegisiklik
         // yaptýðým deðiþiklikler sizin branchýnýza otomatik gelecek mi
+<<<<<<< HEAD
 	
+=======
+<<<<<<< HEAD
+	//yeniiii deðiþiklikkkk
+=======
+        // cansel tarafýndan deðiþiklik yapýldý
+>>>>>>> c4da79e0f1d80d808a99499ced8f59e1a17f732a
+>>>>>>> master
         private void button1_Click(object sender, EventArgs e)
         {
             string Kullanici;
@@ -39,6 +48,7 @@ namespace WindowsFormsApp1
                 MessageBox.Show("Hatalý Giriþ!...");
 
 //master deðiþikliklerin hepsi branchlara otomatik yükleniyor
+//BU ETKANIN YAZISIDIR
 
 
         }
