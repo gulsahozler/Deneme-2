@@ -16,9 +16,9 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
-
+//deðiþiklik 3333333333333333
         // yaptýðým deðiþiklikler sizin branchýnýza otomatik gelecek mi
-
+	
         private void button1_Click(object sender, EventArgs e)
         {
             string Kullanici;
