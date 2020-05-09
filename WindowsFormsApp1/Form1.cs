@@ -18,7 +18,7 @@ namespace WindowsFormsApp1
         }
 
         // yaptýðým deðiþiklikler sizin branchýnýza otomatik gelecek mi
-
+        // cansel tarafýndan deðiþiklik yapýldý
         private void button1_Click(object sender, EventArgs e)
         {
             string Kullanici;
