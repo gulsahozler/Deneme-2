@@ -37,6 +37,10 @@ namespace WindowsFormsApp1
 
 
                 MessageBox.Show("Hatalý Giriþ!...");
+
+//master deðiþikliklerin hepsi branchlara otomatik yükleniyor
+
+
         }
     }
 }
