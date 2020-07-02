@@ -1,0 +1,10 @@
+C:\Users\arzuh\source\repos\StokTakipProgramı\StokTakipProgramı\bin\Debug\StokTakipProgramı.exe.config
+C:\Users\arzuh\source\repos\StokTakipProgramı\StokTakipProgramı\bin\Debug\StokTakipProgramı.exe
+C:\Users\arzuh\source\repos\StokTakipProgramı\StokTakipProgramı\bin\Debug\StokTakipProgramı.pdb
+C:\Users\arzuh\source\repos\StokTakipProgramı\StokTakipProgramı\obj\Debug\StokTakipProgramı.csprojAssemblyReference.cache
+C:\Users\arzuh\source\repos\StokTakipProgramı\StokTakipProgramı\obj\Debug\StokTakipProgramı.Form1.resources
+C:\Users\arzuh\source\repos\StokTakipProgramı\StokTakipProgramı\obj\Debug\StokTakipProgramı.Properties.Resources.resources
+C:\Users\arzuh\source\repos\StokTakipProgramı\StokTakipProgramı\obj\Debug\StokTakipProgramı.csproj.GenerateResource.cache
+C:\Users\arzuh\source\repos\StokTakipProgramı\StokTakipProgramı\obj\Debug\StokTakipProgramı.csproj.CoreCompileInputs.cache
+C:\Users\arzuh\source\repos\StokTakipProgramı\StokTakipProgramı\obj\Debug\StokTakipProgramı.exe
+C:\Users\arzuh\source\repos\StokTakipProgramı\StokTakipProgramı\obj\Debug\StokTakipProgramı.pdb
